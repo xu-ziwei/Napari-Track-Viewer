@@ -48,4 +48,4 @@ frame range
 
 complete table of detections
 
-Track points are displayed:
+Track points are displayed
