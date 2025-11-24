@@ -34,21 +34,21 @@ Final shape is (T, Y, X)
 
 ## 🧭 How to Use
 
-Click a segmented object in napari
+1. Click a segmented object in napari
 
-The Track Info panel displays:
+2. The Track Info panel displays:
 
-segmentation label
+* segmentation label
 
-clicked frame
+* clicked frame
 
-track ID
+* track ID
 
-frame range
+* frame range
 
-complete table of detections
+* complete table of detections
 
-Track points are displayed:
+3. Track points are displayed:
 - 🔴 red points = entire track
 
 - 🟡 yellow point = clicked detection
