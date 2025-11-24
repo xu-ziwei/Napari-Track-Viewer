@@ -48,4 +48,7 @@ frame range
 
 complete table of detections
 
-Track points are displayed
+Track points are displayed:
+- 🔴 red points = entire track
+
+- 🟡 yellow point = clicked detection
